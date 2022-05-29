@@ -16,4 +16,4 @@ Few observations:
 * There are 70947 (70947/300024 = 23.64 %)employees eligible to participate in a mentorship program. 
 
 ## Summary:
-While is a high number of employees with retirement, there are 70947 employees eligible for the mentorship program.  The company should invest in the mentorship program to train the eligibile employees and have a roll out plan for filling in the senior titles. 
+While there is a high number of employees with retirement, there are 70947 employees eligible for the mentorship program.  The company should invest in the mentorship program to train the eligibile employees and have a roll out plan for filling in the senior titles. 
