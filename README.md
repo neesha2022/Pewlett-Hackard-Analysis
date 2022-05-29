@@ -11,6 +11,9 @@ Few observations:
 
 * We created the unique titles table showing most recent title for employees of retirment age. There 90398 employees.
 
-* There are 90398 are with retiring titles with 44775 ( 44775/90398 = 49.24%) with Senior titles.
+* There are 90398 are with retiring titles with 44775 (44775/90398 = 49.24%) with Senior titles.
 
-* There are 70947 employees eligible to participate in a mentorship program. 
+* There are 70947 (70947/300024 = 23.64 %)employees eligible to participate in a mentorship program. 
+
+## Summary:
+While is a high number of employees with retirement, there are 70947 employees eligible for the mentorship program.  The company should invest in the mentorship program to train the eligibile employees and have a roll out plan for filling in the seniorThere may not exactly be enough people in the workforce to take care of the tasks or even come close to the amount of experience to fill these roles so quickly but what companies can do is try to best learn about what these employees did to be so successful/ having such long lasting careers to continue the tradition for future employees. Most likely the future generation is more computer savy/ efficent due to technologies and can catch on quickly helping companies continue to trend in the right direction by keeping revenues up.
